@@ -16,6 +16,6 @@ Use Google Colab, Jupyter Notebook, or any Python IDE like PyCharm or VSCode.
 - Upload or Place the Dataset:
 
 - If using Google Colab:
-Upload the flood.csv file by uncommenting and running the files.upload() line in the code.
+Upload the respective CSV file by uncommenting and running the files.upload() line in the code.
 If running locally:
-Place the flood.csv file in the specified directory. Update the file path in the script if needed.
+Place the (required natural disaster csv file).csv file in the specified directory. Update the file path in the script if needed.
